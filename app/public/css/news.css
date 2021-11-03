@@ -1,0 +1,24 @@
+body {
+  font:  14px/1.5 Arial;
+  color:  #666;
+}
+
+main {
+  max-width:  900px;
+  margin:  0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-top:  60px;
+}
+
+.item {
+  box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+  margin: 10px;
+  padding: 10px;
+}
+
+[v-cloak]{
+    display: none;
+}
